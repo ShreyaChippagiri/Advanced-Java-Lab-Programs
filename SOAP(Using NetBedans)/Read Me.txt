@@ -1,0 +1,5 @@
+How to Execute(using NetBeans)
+
+1. Just follow the instructions given in "How to.doc" file
+
+Note: You need to remember the "HelloWorld.java" and "index.jsp" code for writing in exam when they give the paper to write 

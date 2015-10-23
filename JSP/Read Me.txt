@@ -1,0 +1,11 @@
+How to Execute
+
+1. Place "login.jsp" and "loginaction.jsp" under 
+"C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT"
+
+
+2. Start Apache Server
+
+3. Run "login.jsp" on Apache server as below
+
+"http://localhost:8080/login.jsp" 

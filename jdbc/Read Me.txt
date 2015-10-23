@@ -1,0 +1,18 @@
+How to Execute
+
+1. Place "jspjdbc.jsp" under 
+"C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT"
+
+2. create one excel sheet(say State.xls) and place it under "C:\"
+
+3. Set Up DataSource
+
+Control panal->Administrative Tools->Data Sources->System DSN->
+(Click Add Button)->select Microsoft Excel Driver->give data source name->
+click on "Select Workspace"-> select the excel sheet path that you have placed in step-2->click ok.
+
+3. Start Apache Server
+
+4. Run "jspjdbc.jsp" on Apache server as below
+
+"http://localhost:8080/jspjdbc.jsp" 

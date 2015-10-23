@@ -1,0 +1,22 @@
+How to execute
+
+1. place "index.jsp" under
+
+	"C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT"
+
+2. compile "Myservlet.java" and place under
+
+	"C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT\WEB-INF\classes"
+
+3. add servlet and servlet mapping names in "web.xml" which is under "C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT\WEB-INF"
+(refer web.xml given in this folder) 
+
+4. start tomcat server,
+
+5. Run index.jsp in tomcat server as
+
+"localhost:8080/index.jsp"
+
+6. Enter your user name , password, message and click send button
+
+7. check your inbox for new message that you have sent just now.

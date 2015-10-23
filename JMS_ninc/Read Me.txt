@@ -1,0 +1,22 @@
+1. General Steps
+
+Step 1: Login as admin (password:a*****3)
+
+Step 2: Make sure that apache server is on 
+   
+   How to check?	
+	 By running examples programs
+       if you are getting 404 server error,(check whether examples folder is exists or not )
+   Try to restart/reinstall apache server.
+   How to restart?
+      Start->programs->Apache Tomcat->Configure Tomcat, In genaral tab click on start button
+       Reopen the browser and re-execute the program   
+Re-Install   
+   If still not working, install apache-tomcat-7.0.30.exe which is in shared drive.
+      
+2. Program Execution Setup
+
+
+Step 1: Set j2ee.jar file to jGrasp Classpath
+ 
+Step 2: run HelloWorldMessgae.java

@@ -1,0 +1,3 @@
+How to Execute
+
+1.Run the code in jGrasp directly as Applet,
